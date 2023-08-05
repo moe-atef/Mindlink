@@ -1,0 +1,65 @@
+.btn-prim{
+  border: 2px solid #980101;
+  color: #980101;
+  padding-top: 4px ;
+}
+.btn-prim:hover{
+  color: white;
+  background-color: #980101;
+}
+.btn-google{
+  border: 2px solid #D3D3D3;
+  border-radius: 100px;
+  padding: 8px;
+width: 85%;
+}
+.btn-google:hover{
+  border: 2px solid #D3D3D3;
+}
+.btn-google:active{
+  border: 2px solid #D3D3D3;
+}
+.btn-google img{
+  width: 15px;
+  margin: 0 6px;
+  margin-bottom: 3px;
+}
+.text-box {
+  border: 2px solid #D3D3D3;
+  border-radius: 100px;
+  padding:5px 20px;
+width: 85%;
+font-size: 20px;
+}
+.label1{
+  margin-right: auto;
+  margin-left: 12%;
+  font-size: 18px;
+}
+.line{
+  font-size: 18px;
+  width: 120%;
+}
+.line hr{
+  border-top: 2px  solid rgb(131, 131, 131);
+  opacity: 1;
+}
+.btn-sign{
+  border: 2px solid #980101;
+  color: white;
+  background-color: #980101;
+  outline: none;
+  border-radius: 100px;
+  padding: 8px;
+  width: 85%;
+}
+.btn-sign:hover{
+  color: #980101;
+  border: 2px solid #980101;
+}
+.btn-sign:active{
+  outline: none;
+}
+.btn-sign:focus{
+  outline: none;
+}

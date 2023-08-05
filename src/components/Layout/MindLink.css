@@ -1,0 +1,28 @@
+.tool-container{
+  max-width: fit-content;
+  transition: all .3s;
+  background-color: #EDEDED;
+  transform: scale(.83);
+}
+.back-btn{
+  border-radius: 200px;
+}
+.back-btn:hover{
+  background-color: #d7d7d7;
+}
+.sign-btn{
+  background-color: #980101;
+  border-radius: 200px;
+  color: white;
+  border: none;
+  padding: 7px 20px;
+}
+.mind-mapping{
+  height: 70vh;
+  background-color: rgb(247, 249, 251);
+  overflow: hidden;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
