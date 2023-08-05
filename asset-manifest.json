@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/the-mo-dev/Mindlink/static/css/main.78ba83ae.css",
-    "main.js": "/the-mo-dev/Mindlink/static/js/main.a15c004c.js",
-    "static/js/787.c3013254.chunk.js": "/the-mo-dev/Mindlink/static/js/787.c3013254.chunk.js",
-    "static/media/fa-solid-900.ttf": "/the-mo-dev/Mindlink/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/fa-brands-400.ttf": "/the-mo-dev/Mindlink/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/fa-solid-900.woff2": "/the-mo-dev/Mindlink/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/the-mo-dev/Mindlink/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/the-mo-dev/Mindlink/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/main img.png": "/the-mo-dev/Mindlink/static/media/main img.fab3423ce8f40b032744.png",
-    "static/media/fa-regular-400.woff2": "/the-mo-dev/Mindlink/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/fa-v4compatibility.ttf": "/the-mo-dev/Mindlink/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/the-mo-dev/Mindlink/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/the-mo-dev/Mindlink/index.html",
-    "main.78ba83ae.css.map": "/the-mo-dev/Mindlink/static/css/main.78ba83ae.css.map",
-    "main.a15c004c.js.map": "/the-mo-dev/Mindlink/static/js/main.a15c004c.js.map",
-    "787.c3013254.chunk.js.map": "/the-mo-dev/Mindlink/static/js/787.c3013254.chunk.js.map"
+    "main.css": "/Mindlink/static/css/main.31bb2dc6.css",
+    "main.js": "/Mindlink/static/js/main.5b8cfe0b.js",
+    "static/js/787.c3013254.chunk.js": "/Mindlink/static/js/787.c3013254.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Mindlink/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Mindlink/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Mindlink/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Mindlink/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Mindlink/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/main img.png": "/Mindlink/static/media/main img.fab3423ce8f40b032744.png",
+    "static/media/fa-regular-400.woff2": "/Mindlink/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Mindlink/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Mindlink/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Mindlink/index.html",
+    "main.31bb2dc6.css.map": "/Mindlink/static/css/main.31bb2dc6.css.map",
+    "main.5b8cfe0b.js.map": "/Mindlink/static/js/main.5b8cfe0b.js.map",
+    "787.c3013254.chunk.js.map": "/Mindlink/static/js/787.c3013254.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78ba83ae.css",
-    "static/js/main.a15c004c.js"
+    "static/css/main.31bb2dc6.css",
+    "static/js/main.5b8cfe0b.js"
   ]
 }
