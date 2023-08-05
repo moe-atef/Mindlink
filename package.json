@@ -2,6 +2,7 @@
   "name": "mind-link",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://the-mo-dev.github.io/Mindlink",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -14,14 +15,14 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.io/the-mo-dev/Mindlink",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject","predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "postdeploy": "npm run clean-build"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

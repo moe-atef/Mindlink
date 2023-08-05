@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, HashRouter, Route, Routes } from "react-router-dom";
 
 import Home from "./components/Layout/Home";
 import Layout from "./components/Layout/Layout";
@@ -9,7 +9,7 @@ import Signup from "./components/Layout/Signup";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route
           path="/"
@@ -32,7 +32,7 @@ const App = () => {
           />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
